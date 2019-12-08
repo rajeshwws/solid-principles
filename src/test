@@ -1,1 +1,8 @@
-Included an explanation for the principles
+It simply sheds light on what S.O.L.I.D is_.
+
+Single-responsibility Principle
+Open-closed Principle
+Liskov substitution principle
+Interface segregation principle
+Dependency Inversion principle
+Conclusion
